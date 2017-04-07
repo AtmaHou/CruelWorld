@@ -19,7 +19,7 @@ class InitTest:
         print self.map
 
 t = InitTest()
-t.show()
+# t.show()
 if isinstance(t, InitTest):
     print 2333
 else:

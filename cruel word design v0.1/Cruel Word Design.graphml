@@ -211,8 +211,8 @@ who is starter<y:LabelModel>
           <y:Geometry height="41.0" width="106.0" x="-439.4976536429373" y="-97.45677488876538"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.103515625" modelName="custom" textColor="#000000" visible="true" width="104.32421875" x="0.837890625" y="-3.5517578125">raction score:
-rs~N(ur + as,dr^2) 
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.103515625" modelName="custom" textColor="#000000" visible="true" width="112.99609375" x="-3.498046875" y="-3.5517578125">raction score:
+rs~N(ur+as*ro,dr^2) 
 ur:[-1,1] dr:[0,0.66]<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -1156,7 +1156,6 @@ inactive list<y:LabelModel>
       </data>
     </edge>
     <edge id="e39" source="n19" target="n36">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1167,7 +1166,6 @@ inactive list<y:LabelModel>
       </data>
     </edge>
     <edge id="e40" source="n34" target="n35">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1178,7 +1176,6 @@ inactive list<y:LabelModel>
       </data>
     </edge>
     <edge id="e41" source="n35" target="n30">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1189,7 +1186,6 @@ inactive list<y:LabelModel>
       </data>
     </edge>
     <edge id="e42" source="n34" target="n30">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="-20.52197265625">
@@ -1203,7 +1199,6 @@ inactive list<y:LabelModel>
       </data>
     </edge>
     <edge id="e43" source="n36" target="n26">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
