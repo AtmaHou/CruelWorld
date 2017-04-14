@@ -12,6 +12,10 @@ class Interact:
         self.target_list = current_target_list
 
     def interact(self):
+        # blood relation
+        # attitude
+        # trade resource / information
+
         pass
 
     def action(self):
